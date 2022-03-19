@@ -1,0 +1,95 @@
+/* .filho{
+    height: 200px;
+    width: 200px;
+    flex-wrap: wrap;
+ 
+    
+}
+
+.filho .imageh2{
+    width: 170px;
+    background-color: beige;
+    align-items: flex-start;
+}
+
+.img{
+    width: 170px;
+   
+}
+
+.menuteste{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+#check{
+    
+    display: none;
+}
+
+
+.logo{
+    text-decoration: none;
+    background-color: #1405;
+}
+
+.logo h1{  
+    color: #f9f9f9;
+    font-size: 30px;
+    margin: 15px;
+   
+}
+
+
+ /* /* a:hover{
+    background-color: aquamarine;
+    display: block;
+    height: 10px;   
+} */
+   
+
+img{
+    width: 25px;
+}
+
+input[type="checkbox"]{
+    display: none;
+}
+
+
+nav{
+    background-color:rgba(16,16,16,.5);
+    width: 350px;
+    height: 100%;
+    left: -350px; 
+    position:absolute;
+    color: aliceblue;
+}
+
+input[type="checkbox"]:checked ~ nav
+{
+     transform: translateX(350px);
+ }
+
+ul{
+    top: 70px;
+    position: absolute;
+    width: 100%;
+}
+a{
+   display: block;
+   padding: 20px 5px;
+   color:cornflowerblue;
+}
+
+a:hover{
+    background-color:rgba(176,224,230); 
+}
+
+label{ 
+    padding: 15px;
+    position: absolute;
+    z-index: 1;
+}
+

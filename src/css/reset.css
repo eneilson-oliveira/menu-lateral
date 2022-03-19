@@ -1,0 +1,26 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+a{
+    text-decoration: none;
+    color:aliceblue;
+} 
+
+body{
+    font-family: sans-serif;
+    background-image:url(imagens/lamp_outlet_idea_electricity_120422_2560x1600.jpg);
+    background-attachment: fixed; 
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color:chocolate;
+}
+
+ul{
+    list-style: none;
+}
+
+
+
